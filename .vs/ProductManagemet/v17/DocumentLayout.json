@@ -1,0 +1,961 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProductUpdated\\ProductManagemet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\invoice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\invoice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\invoice\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\invoice\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\invoice\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\invoice\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\invoice\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\invoice\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\controllers\\partywiseproductcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:controllers\\partywiseproductcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\party\\party.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\party\\party.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\partywiseproduct\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\partywiseproduct\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\party\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\party\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\partytotal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\partytotal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\models\\partytotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:models\\partytotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\models\\invoiceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:models\\invoiceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\productrate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\productrate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\partywiseproduct\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\partywiseproduct\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\partywiseproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\partywiseproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\partywiseproduct\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\partywiseproduct\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\partywiseinvoices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\partywiseinvoices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\party\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\party\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\party\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\party\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\party\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\party\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\controllers\\productratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:controllers\\productratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\controllers\\partytotalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:controllers\\partytotalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\migrations\\20241104065844_partytotalupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:migrations\\20241104065844_partytotalupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\models\\productrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:models\\productrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\.nuget\\packages\\epplus\\7.4.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\models\\partywiseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:models\\partywiseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\migrations\\20241103092054_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:migrations\\20241103092054_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\migrations\\20241029124627_invoiceadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:migrations\\20241029124627_invoiceadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\migrations\\20241029114823_productrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:migrations\\20241029114823_productrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\migrations\\20241029101835_updateproducttimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:migrations\\20241029101835_updateproducttimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\migrations\\20241102052120_partytotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:migrations\\20241102052120_partytotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\migrations\\20241102041404_initially.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:migrations\\20241102041404_initially.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|d:\\productupdated\\productmanagemet\\migrations\\20241104111725_invoiceentries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B979220E-6852-4477-9CCE-0F2C84A2C965}|ProductManagemet.csproj|solutionrelative:migrations\\20241104111725_invoiceentries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvoiceController.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:20:01.818Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PartyWiseProductContoller.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Controllers\\PartyWiseProductContoller.cs",
+              "RelativeDocumentMoniker": "Controllers\\PartyWiseProductContoller.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Controllers\\PartyWiseProductContoller.cs",
+              "RelativeToolTip": "Controllers\\PartyWiseProductContoller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:44:55.958Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PartyWiseProduct.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Models\\PartyWiseProduct.cs",
+              "RelativeDocumentMoniker": "Models\\PartyWiseProduct.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Models\\PartyWiseProduct.cs",
+              "RelativeToolTip": "Models\\PartyWiseProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:35:09.781Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Invoice\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Invoice\\Create.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Invoice\\Create.cshtml",
+              "RelativeToolTip": "Views\\Invoice\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T07:17:53.523Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T08:51:51.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "Models\\Register.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Models\\Register.cs",
+              "RelativeToolTip": "Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:45:47.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:09:51.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Invoice\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Invoice\\Index.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Invoice\\Index.cshtml",
+              "RelativeToolTip": "Views\\Invoice\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T12:48:13.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Invoice\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Invoice\\Delete.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Invoice\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Invoice\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T12:56:48.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Invoice\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Invoice\\Edit.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Invoice\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Invoice\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:04:58.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T08:51:00.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:54:33.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Models\\Invoice.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Models\\Invoice.cs",
+              "RelativeToolTip": "Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:58:13.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Party.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Party\\Party.cshtml",
+              "RelativeDocumentMoniker": "Views\\Party\\Party.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Party\\Party.cshtml",
+              "RelativeToolTip": "Views\\Party\\Party.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T11:20:20.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:58:13.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAQwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:49:17.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:40:45.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\PartyWiseProduct\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\PartyWiseProduct\\Create.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\PartyWiseProduct\\Create.cshtml",
+              "RelativeToolTip": "Views\\PartyWiseProduct\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T07:01:06.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:17:10.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Party\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Party\\Create.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Party\\Create.cshtml",
+              "RelativeToolTip": "Views\\Party\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T04:26:24.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\PartyTotal\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\PartyTotal\\Index.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\PartyTotal\\Index.cshtml",
+              "RelativeToolTip": "Views\\PartyTotal\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAywCkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T05:05:11.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwEoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:48:02.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T11:11:09.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InvoiceEntry.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Models\\InvoiceEntry.cs",
+              "RelativeDocumentMoniker": "Models\\InvoiceEntry.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Models\\InvoiceEntry.cs",
+              "RelativeToolTip": "Models\\InvoiceEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:12:18.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20241104111725_InvoiceEntries.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241104111725_InvoiceEntries.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241104111725_InvoiceEntries.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241104111725_InvoiceEntries.cs",
+              "RelativeToolTip": "Migrations\\20241104111725_InvoiceEntries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:17:26.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T07:21:16.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PartyTotal.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Models\\PartyTotal.cs",
+              "RelativeDocumentMoniker": "Models\\PartyTotal.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Models\\PartyTotal.cs",
+              "RelativeToolTip": "Models\\PartyTotal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:03:02.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:17:23.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T07:31:04.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T07:30:51.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\ProductRate\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductRate\\Index.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\ProductRate\\Index.cshtml",
+              "RelativeToolTip": "Views\\ProductRate\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:44:28.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\PartyWiseProduct\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\PartyWiseProduct\\Delete.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\PartyWiseProduct\\Delete.cshtml",
+              "RelativeToolTip": "Views\\PartyWiseProduct\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T07:01:30.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\PartyWiseProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\PartyWiseProduct\\Index.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\PartyWiseProduct\\Index.cshtml",
+              "RelativeToolTip": "Views\\PartyWiseProduct\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T04:42:51.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\PartyWiseProduct\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\PartyWiseProduct\\Edit.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\PartyWiseProduct\\Edit.cshtml",
+              "RelativeToolTip": "Views\\PartyWiseProduct\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T07:02:00.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\PartyWiseInvoices\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\PartyWiseInvoices\\Index.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\PartyWiseInvoices\\Index.cshtml",
+              "RelativeToolTip": "Views\\PartyWiseInvoices\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T07:31:31.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Party\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Party\\Edit.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Party\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Party\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T04:32:16.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Party\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Party\\Details.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Party\\Details.cshtml",
+              "RelativeToolTip": "Views\\Party\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T04:32:15.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Party\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Party\\Delete.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Party\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Party\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T04:32:13.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductRateController.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Controllers\\ProductRateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductRateController.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Controllers\\ProductRateController.cs",
+              "RelativeToolTip": "Controllers\\ProductRateController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:44:21.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAwwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:13:01.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PartyTotalController.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Controllers\\PartyTotalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PartyTotalController.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Controllers\\PartyTotalController.cs",
+              "RelativeToolTip": "Controllers\\PartyTotalController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:04:49.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PartyController.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Controllers\\PartyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PartyController.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Controllers\\PartyController.cs",
+              "RelativeToolTip": "Controllers\\PartyController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAiwDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:04:18.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241104065844_PartyTotalUpdate.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241104065844_PartyTotalUpdate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241104065844_PartyTotalUpdate.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241104065844_PartyTotalUpdate.cs",
+              "RelativeToolTip": "Migrations\\20241104065844_PartyTotalUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:58:45.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductRate.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Models\\ProductRate.cs",
+              "RelativeDocumentMoniker": "Models\\ProductRate.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Models\\ProductRate.cs",
+              "RelativeToolTip": "Models\\ProductRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:54:53.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\DELL\\.nuget\\packages\\epplus\\7.4.2\\readme.txt",
+              "ToolTip": "C:\\Users\\DELL\\.nuget\\packages\\epplus\\7.4.2\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-04T05:32:05.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T04:41:13.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T04:41:12.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Party.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Models\\Party.cs",
+              "RelativeDocumentMoniker": "Models\\Party.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Models\\Party.cs",
+              "RelativeToolTip": "Models\\Party.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:59:28.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:40:26.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:12:14.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationRole.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "Models\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:12:06.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20241103092054_Identity.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241103092054_Identity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241103092054_Identity.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241103092054_Identity.cs",
+              "RelativeToolTip": "Migrations\\20241103092054_Identity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:20:55.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T08:58:56.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20241102052120_PartyTotal.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241102052120_PartyTotal.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241102052120_PartyTotal.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241102052120_PartyTotal.cs",
+              "RelativeToolTip": "Migrations\\20241102052120_PartyTotal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:21:20.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20241102041404_initially.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241102041404_initially.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241102041404_initially.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241102041404_initially.cs",
+              "RelativeToolTip": "Migrations\\20241102041404_initially.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:14:04.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20241029124627_InvoiceAdded.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241029124627_InvoiceAdded.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241029124627_InvoiceAdded.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241029124627_InvoiceAdded.cs",
+              "RelativeToolTip": "Migrations\\20241029124627_InvoiceAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:46:28.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20241029114823_ProductRate.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241029114823_ProductRate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241029114823_ProductRate.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241029114823_ProductRate.cs",
+              "RelativeToolTip": "Migrations\\20241029114823_ProductRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:48:23.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20241029101835_UpdateProductTimestamps.cs",
+              "DocumentMoniker": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241029101835_UpdateProductTimestamps.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241029101835_UpdateProductTimestamps.cs",
+              "ToolTip": "D:\\ProductUpdated\\ProductManagemet\\Migrations\\20241029101835_UpdateProductTimestamps.cs",
+              "RelativeToolTip": "Migrations\\20241029101835_UpdateProductTimestamps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:18:35.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

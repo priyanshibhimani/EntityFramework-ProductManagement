@@ -1,0 +1,10 @@
+﻿@model ProductManagemet.Models.Party
+
+<h2>Party Details</h2>
+
+<div>
+    <h4>@Model.PartyName</h4>
+    <p><strong>Party ID:</strong> @Model.PartyId</p>
+    <a asp-action="Edit" asp-route-id="@Model.PartyId" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
